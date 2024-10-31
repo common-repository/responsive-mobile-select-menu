@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Mobile Select Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-03 08:06+0000\n"
+"PO-Revision-Date: 2019-08-03 08:07+0000\n"
+"Last-Translator: Saskia Lund <mail@saskialund.de>\n"
+"Language-Team: Deutsch (Sie)\n"
+"Language: de_DE_formal\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. Name of the plugin
+#: classes/class-rms-main.php:252
+msgid "Responsive Mobile Select Menu"
+msgstr "Responsives, mobiles Auswahlmenü"
+
+#: classes/class-rms-main.php:253
+msgid "Responsive Menu"
+msgstr "Responsives Menü"
+
+#: classes/class-rms-main.php:264
+msgid "General Settings"
+msgstr "Allgemeines"
+
+#: classes/class-rms-main.php:271
+msgid "Maximum Menu Width"
+msgstr "Maximale Browserbreite"
+
+#: classes/class-rms-main.php:272
+msgid "Show the select box when the viewport is less than this width"
+msgstr ""
+"Das Auswahlmenü wird angezeigt, wenn der Browser-Viewport kleiner als diese "
+"Breite ist."
+
+#: classes/class-rms-main.php:281
+msgid "Menu Depth Limit"
+msgstr "Begrenzung der Tiefe der Menüebenen"
+
+#: classes/class-rms-main.php:282
+msgid ""
+"The maximum number of levels of menu items to include in the select menu.  "
+"Set to 0 for no limit."
+msgstr ""
+"Die maximale Ebenenanzahl, die im Auswahlmenü eingeschlossen sein soll. "
+"Setzen Sie dies auf 0, wenn es keine Begrenzung geben soll."
+
+#: classes/class-rms-main.php:291
+msgid "Sub Item Spacer"
+msgstr "Trennzeichen für Unterpunkte"
+
+#: classes/class-rms-main.php:292
+msgid "The character to use to indent sub items."
+msgstr ""
+"Das Zeichen, das für die Einrückung von Unterpunkte angezeigt werden soll."
+
+#: classes/class-rms-main.php:301
+msgid "Exclude Items Without Links"
+msgstr "Menüpunkte ohne Links ausschließen"
+
+#: classes/class-rms-main.php:302
+msgid "Exclude any items where the URL is set to \"#\" or blank"
+msgstr ""
+"Menüpunkte ausschließen, bei denen die URL auf \"#\" oder leer gesetzt ist"
+
+#: classes/class-rms-main.php:309
+msgid "First Item Name"
+msgstr "Titel des ersten Punktes"
+
+#: classes/class-rms-main.php:310
+msgid "Text to display for the first \"dummy\" item."
+msgstr "Text, der als erster Punkt angezeigt werden soll."
+
+#: classes/class-rms-main.php:311
+msgid "&rArr; Navigate"
+msgstr "&rArr; Menü"
+
+#: classes/class-rms-main.php:319
+msgid "Show currently selected item"
+msgstr "Aktuell gewählter Menüpunkt anzeigen"
+
+#: classes/class-rms-main.php:320
+msgid ""
+"Enable to show the currently selected item, rather than the first \"dummy\" "
+"item, when the page loads."
+msgstr ""
+"Wenn der ausgewählte Menüpunkt, statt des Platzhaltertextes beim Laden der "
+"Seite angezeigt werden soll, aktivieren Sie diese Option."
+
+#: classes/class-rms-main.php:327
+msgid "Activate Theme Locations"
+msgstr "Menü-Positionen aktivieren"
+
+#: classes/class-rms-main.php:333
+msgid "Activate All Theme Locations"
+msgstr "Alle Menü-Positionen aktivieren"
+
+#: classes/class-rms-main.php:334
+msgid "Apply the responsive select menu to all menus"
+msgstr "Das Responsive Auswahlmenü für alle Menüs aktivieren"
+
+#: classes/class-rms-main.php:341
+msgid "Selectively Activate Theme Locations"
+msgstr "Nur bestimmte Theme-Positionen aktivieren"
+
+#: classes/class-rms-main.php:342
+msgid ""
+"Disable the above and activate only the theme locations you want.  These "
+"theme locations correspond to the Theme Locations Meta Box in Appearance > "
+"Menus"
+msgstr ""
+"Die obige Einstellung deaktivieren und nur die gewünschten Menü-Positionen "
+"aktivieren. Die Menü-Positionen ergeben sich aus den in Ihrem Theme "
+"festgelegten Positionen. Sie finden sie unter Design > Menüs"
+
+#: classes/class-rms-main.php:347
+msgid "Advanced Settings"
+msgstr "Erweiterte Einstellungen"
+
+#: classes/class-rms-main.php:352
+msgid "Enable only on"
+msgstr "Aktivierung nur für "
+
+#: classes/class-rms-main.php:353
+msgid ""
+"IDs of pages to enable responsive select menu on.  Other pages will use the "
+"standard theme menu.  Enter as a comma-separated list."
+msgstr ""
+"Seiten-IDs auf denen das Responsive Auswahlmenü aktiviert werden soll. "
+"Andere Seiten werden das vom Theme vorgegebene Menü darstellen. Als Komma-"
+"getrennte List eintragen."
+
+#: classes/class-rms-main.php:360
+msgid "UberMenu Configuration"
+msgstr "UberMenu Konfiguration"
+
+#: classes/class-rms-main.php:365
+msgid "UberMenu is NOT required in order to use this plugin"
+msgstr "UberMenu ist nicht erforderlich, um dieses Plugin zu nutzen"
+
+#: classes/class-rms-main.php:366
+msgid "If you are not using UberMenu, you can ignore these settings."
+msgstr ""
+"Wenn Sie das UberMenu-Plugin nicht nutzen, können Sie diese Einstellungen "
+"ignorieren."
+
+#: classes/class-rms-main.php:374
+msgid "Activate UberMenu Options"
+msgstr "UberMenu Einstellungen aktivieren"
+
+#: classes/class-rms-main.php:375
+msgid ""
+"If you are using UberMenu, enable this setting to make use of the UberMenu-"
+"specific options."
+msgstr ""
+"Wenn Sie das UbereMenu Plugin verwenden, aktivieren Sie diese Einstellungen, "
+"um von den UberMenu-spezifischen Optionen Gebrauch zu machen."
+
+#: classes/class-rms-main.php:382
+msgid "Exclude Non-links"
+msgstr "Punkte ohne Links ausschließen"
+
+#: classes/class-rms-main.php:383
+msgid "Exclude any items where the link is disabled"
+msgstr "Menüpunkte ausschließen, bei denen die Linkfunktion deaktiviert ist"
+
+#: classes/class-rms-main.php:390
+msgid "Exclude No-text"
+msgstr "Kein Text ausschließen"
+
+#: classes/class-rms-main.php:391
+msgid "Exclude any items where the text is disabled"
+msgstr "Menüpunkte ausschließen, bei denen der Text deaktiviert ist"
+
+#: classes/class-rms-main.php:398
+msgid "Exclude Widgets"
+msgstr "Widgets ausschließen"
+
+#: classes/class-rms-main.php:399
+msgid "Exclude any items with attached widgets"
+msgstr "Menüpunkte mit angehängten Widgets ausschließen"
+
+#: classes/class-rms-main.php:406
+msgid "Exclude Content Overrides"
+msgstr "Inhaltsüberschreibungen ausschließen"
+
+#: classes/class-rms-main.php:407
+msgid "Exclude any items with content overrides"
+msgstr "Menüpunkte mit überschreibendem Inhalt ausschließen"
+
+#: classes/class-rms-options-panel.php:67
+#: classes/class-rms-options-panel.php:68
+msgid "Options"
+msgstr "Optionen"
+
+#: classes/class-rms-options-panel.php:124
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Sie haben keine ausreichenden Berechtigungen, um auf diese Seite zuzugreifen."
+
+#: classes/class-rms-options-panel.php:133
+msgid "Control Panel"
+msgstr "Kontrollcenter"
+
+#: classes/class-rms-options-panel.php:159
+msgid "by "
+msgstr "von "
+
+#: classes/class-rms-options-panel.php:203
+msgid "Save All Settings"
+msgstr "Alle Einstellungen speichern"
+
+#: classes/class-rms-options-panel.php:401
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: classes/class-rms-options-panel.php:402
+msgid "WARNING: Are you sure you want to reset all UberMenu options?"
+msgstr ""
+"WARNUNG: Sind Sie sicher, dass Sie alle UberMenu-Einstellungen zurücksetzen "
+"möchten?"
+
+#: classes/class-rms-options-panel.php:409
+msgid "Flush Rewrite Rules"
+msgstr "Weiterleitungsregeln überschreiben"
+
+#: classes/class-rms-options-panel.php:722
+msgid "Settings reset to factory defaults!"
+msgstr "Die Einstellungen wurden auf die Standardoptionen zurückgesetzt!"
+
+#: classes/class-rms-options-panel.php:733
+msgid "Rewrite rules flushed!"
+msgstr "Weiterleitungsregeln geflusht!"
+
+#: classes/class-rms-options-panel.php:745
+msgid "No can dosville, baby"
+msgstr "Wir sind hier nicht in DOShausen, Schätzchen"
+
+#: classes/class-rms-options-panel.php:787
+msgid "Settings saved!"
+msgstr "Einstellungen gespeichert!"
+
+#. Description of the plugin
+msgid "Turn your menu into a select box at small viewport sizes"
+msgstr ""
+"Zeigen Sie Ihr Menü als Auswahlmenü auf kleinen Browser-Viewport-Größen an."
+
+#. URI of the plugin
+msgid "https://www.saskialund.de/responsive-mobile-select-menu/"
+msgstr "https://www.saskialund.de/responsive-mobile-select-menu/"
+
+#. Author of the plugin
+msgid "Saskia Lund"
+msgstr "Saskia Lund"
+
+#. Author URI of the plugin
+msgid "https://www.saskialund.de"
+msgstr "https://www.saskialund.de"
